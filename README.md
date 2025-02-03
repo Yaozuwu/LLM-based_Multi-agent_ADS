@@ -22,8 +22,8 @@ This repository is a supplementary material to paper "A Survey of Large Language
 | 2024 | Arxiv | [AgentsCoDriver](https://arxiv.org/pdf/2404.06345) | [code] |
 | 2024 | Arxiv | [AgentsCoMerge](https://arxiv.org/pdf/2408.03624) | [code] |
 | 2024 | Arxiv | [CoDrivingLLM](https://arxiv.org/pdf/2409.12812) | [code](https://github.com/FanGShiYuu/CoDrivingLLM) |
-| 2024 | IEEE TIV | | [KoMA](https://arxiv.org/pdf/2407.14239?) | [code](https://jkmhhh.github.io/KoMA/)
-| 2024 | IROS | | [SurrealDriver](https://ieeexplore.ieee.org/abstract/document/10802229) | [code](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) |
+| 2024 | IEEE TIV | [KoMA](https://arxiv.org/pdf/2407.14239?) | [code](https://jkmhhh.github.io/KoMA/)
+| 2024 | IROS | [SurrealDriver](https://ieeexplore.ieee.org/abstract/document/10802229) | [code](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) |
 
 
 ## Other Supportive Tools
