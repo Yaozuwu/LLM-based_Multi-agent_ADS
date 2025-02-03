@@ -35,4 +35,21 @@ This repository is a supplementary material to paper "A Survey of Large Language
 | 2024 | Arxiv | [EC-Drive](https://arxiv.org/pdf/2408.09972) | [code](https://sites.google.com/view/ec-drive) |
 | 2024 | Arxiv | [LLM-Edge-Device-Driving](https://arxiv.org/pdf/2409.20364) | [code] |
 | 2024 | IEEE TIV| [ALGPT](https://ieeexplore.ieee.org/abstract/document/10681241) | [code](https://github.com/Fudan-ProjectTitan/OpenAnnotate) |
+
+## Human-Agent Interaction
+
+### Instructor Paradigm
+|Date| Publication| Paper | Code |
+|----|-----|------|---|
+||| [Co-Pilot] | [code] |
+||| [PPE] | [code] |
+
+### Partnership Paradigm
+|Date| Publication| Paper | Code |
+|----|-----|------|---|
+||| Drive-as-You-Speak ||
+||| Reason-and-React ||
+||| DriVLMe ||
+||| AccidentGPT ||
+||| ConnectGPT ||
  
