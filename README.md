@@ -41,15 +41,15 @@ This repository is a supplementary material to paper "A Survey of Large Language
 ### Instructor Paradigm
 |Date| Publication| Paper | Code |
 |----|-----|------|---|
-||| [Co-Pilot] | [code] |
-||| [PPE] | [code] |
+| 2023 | TIV | [Co-Pilot](https://ieeexplore.ieee.org/abstract/document/10286969) | [code] |
+| 2024 | EMNLP Finding| [PPE](https://aclanthology.org/2024.findings-emnlp.287/) | [code] |
 
 ### Partnership Paradigm
 |Date| Publication| Paper | Code |
 |----|-----|------|---|
-||| Drive-as-You-Speak ||
-||| Reason-and-React ||
-||| DriVLMe ||
-||| AccidentGPT ||
-||| ConnectGPT ||
+| 2024 | WACV | [Drive-as-You-Speak](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.html) | [code] |
+| 2024 | IEEE ITS Mag| [Reason-and-React](https://ieeexplore.ieee.org/abstract/document/10491134) | [code] |
+| 2024 | Arxiv | [DriVLMe](https://arxiv.org/abs/2406.03008) | [code] |
+| 2024 | IEEE IV | [AccidentGPT](https://ieeexplore.ieee.org/abstract/document/10588374) | [code](https://accidentgpt.github.io) |
+| 2024 | IEEE IV | [ConnectGPT](https://ieeexplore.ieee.org/abstract/document/10588835) | [code] |
  
